@@ -31,6 +31,19 @@ Site web de lab ::
 Probleme servenu :( ::
 <img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/bd859bb4-b6f1-40dc-84bb-185ea1dfb86e" />
 ==> Application installer via flatpack s'execute dans un environement isolee (sandbox) ;
+==> On proccede a installe via le suite officiel ... 
+
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/69821363-443b-4bcd-b944-4c417bcc97a4" />
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/04086569-ea20-4bd5-9749-45697bb4b593" />
+Test via chrome browser ( non pas sous AVD ) :: 
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/18a6439b-d734-43b6-b910-c82d1bf7cf71" />
+
+Traffic AVD :: 
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/233a9224-0041-4425-a169-5d653f8aa8ef" />
+Probleme Servenu :: (traficc du site hackthisite.org pas captree) 
+
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/111e5de3-6ca4-4504-a126-2be218672911" />
+
 
 
 

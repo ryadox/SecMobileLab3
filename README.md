@@ -21,4 +21,21 @@ ifconfig command ::
 <img width="1916" height="1198" alt="image" src="https://github.com/user-attachments/assets/c8bdb119-3618-402f-a2e9-fd1c65e9180c" />
 L'adresse est :: [ 127.0.0.1:5554 ]
 
+Setting up proxy on my AVD ::
+<img width="577" height="808" alt="image" src="https://github.com/user-attachments/assets/9569eb5b-ac1a-4ad9-9b51-1b86e3a27f1a" />
+<img width="577" height="808" alt="image" src="https://github.com/user-attachments/assets/613307f7-c794-41fb-a7f5-98c8e18324f8" />
+
+Site web de lab :: 
+<img width="577" height="808" alt="image" src="https://github.com/user-attachments/assets/aba1f64e-b437-40ab-867a-0f7235757759" />
+
+Probleme servenu :( ::
+<img width="1913" height="1188" alt="image" src="https://github.com/user-attachments/assets/bd859bb4-b6f1-40dc-84bb-185ea1dfb86e" />
+==> Application installer via flatpack s'execute dans un environement isolee (sandbox) ;
+
+
+
+
+
+
+
 
